@@ -33,8 +33,7 @@ Quite and reopen Arduino IDE, click **Tools** > **Boards:** > **Adafruit Feather
 
 # Install library for movement and heating functions
 
-
-1. To get started with the movement and heating functions, you need to download and install the library for the motor driver, [click here to download](https://github.com/sparkfun/SparkFun_TB6612FNG_Arduino_Library/archive/master.zip). Once downloaded, unzip the folder. Then you will need to find where your Arduino IDE foler is located, and move the unzipped folder to **Arduino** -> **Libraries**, for example, my Arduino folder is located here:
+To get started with the movement and heating functions, you need to download and install the library for the motor driver, [click here to download](https://github.com/sparkfun/SparkFun_TB6612FNG_Arduino_Library/archive/master.zip). Once downloaded, unzip the folder. Then you will need to find where your Arduino IDE foler is located, and move the unzipped folder to **Arduino** -> **Libraries**, for example, my Arduino folder is located here:
 
 <p align="center">
   <img src="https://github.com/Mei2020/INFINITE-e-textile-workshop-/blob/main/pics/motor_step1.JPG">
