@@ -31,7 +31,7 @@ Quite and reopen Arduino IDE, click **Tools** > **Boards:** > **Adafruit Feather
 
 *Now your Arduino IDE is ready for Feather M0 board*
 
-# Install library for movement and heating functions
+## Install library for movement and heating functions
 
 To get started with the movement and heating functions, you need to download and install the library for the motor driver, [click here to download](https://github.com/sparkfun/SparkFun_TB6612FNG_Arduino_Library/archive/master.zip). Once downloaded, unzip the folder. Then you will need to find where your Arduino IDE foler is located, and move the unzipped folder to **Arduino** -> **Libraries**, for example, my Arduino folder is located here:
 
@@ -39,11 +39,11 @@ To get started with the movement and heating functions, you need to download and
   <img src="https://github.com/Mei2020/INFINITE-e-textile-workshop-/blob/main/pics/motor_step1.JPG">
   </p>
 
-# Install library for MP3 player 
+## Install library for MP3 player 
 
-1. To get started with the audio function, you need to install its library into the Arduino IDE, first, open Arduino menu **Tools** -> **Manage Libraries** 
+To get started with the audio function, you need to install its library into the Arduino IDE, first, open Arduino menu **Tools** -> **Manage Libraries** 
 <p align="center">
-<img src="https://github.com/Mei2020/e-textiles-toolkit/blob/master/connect%20sensor%20with%20a%20micro-controller/pic/MP3_Step1.png">
+<img src="https://github.com/Mei2020/INFINITE-e-textile-workshop-/blob/main/pics/MP3_step1.png">
 </p> 
 
 then, on the top right of the **Library Manager** window, search for **Adafruit_VS1053**, click **install**
