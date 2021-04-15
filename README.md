@@ -19,7 +19,7 @@ Copy and paste the follow URL into **Additional Boards Manager URLs**, then clic
 
 ### Step 3
 
-Click **Tool** > **Board:**>**Board Manager...**， on the search bar on top search *Arduino SAMD Boards*, click **Install** 
+Click **Tools** > **Board:**>**Board Manager...**， on the search bar on top search *Arduino SAMD Boards*, click **Install** 
 
 ### Step 4
 
