@@ -39,4 +39,16 @@ To get started with the movement and heating functions, you need to download and
   <img src="https://github.com/Mei2020/INFINITE-e-textile-workshop-/blob/main/pics/motor_step1.JPG">
   </p>
 
+# Install library for MP3 player 
+
+1. To get started with the audio function, you need to install its library into the Arduino IDE, first, open Arduino menu **Tools** -> **Manage Libraries** 
+<p align="center">
+<img src="https://github.com/Mei2020/e-textiles-toolkit/blob/master/connect%20sensor%20with%20a%20micro-controller/pic/MP3_Step1.png">
+</p> 
+
+then, on the top right of the **Library Manager** window, search for **Adafruit_VS1053**, click **install**
+
+<p align="center">
+<img src="https://github.com/Mei2020/e-textiles-toolkit/blob/master/connect%20sensor%20with%20a%20micro-controller/pic/MP3_step2.png">
+</p>
 
