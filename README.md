@@ -23,7 +23,7 @@ Click **Tools** > **Board:**>**Board Manager...**， on the search bar on top se
 
 ### Step 4
 
-Same as # Step 3, on the search bar on top search *Adafruit SAMD*, click **Install** 
+Same as Step 3, on the search bar on top search *Adafruit SAMD*, click **Install** 
 
 ### Step 5
 
