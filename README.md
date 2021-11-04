@@ -1,6 +1,6 @@
 # INFINITE-e-textile-workshop-
 The following steps show how to install Arduino IDE and some useful libraries. Having these installed on your PC allows you to use INFINITE e-textile toolkit to create interactive projects. Please install before the e-textile workshop. 
-> Ask Mei on Friday if you have problem 
+> Ask Mei on the workshop if you have a problem 
 
 ## Download Arduino IDE and Adafruit Feather M0 environment
 > You can follow Adafruit Feather M0 tutorail on [Arduino IDE Setup](https://learn.adafruit.com/adafruit-feather-m0-basic-proto/setup) then [Using with Arduino IDE](https://learn.adafruit.com/adafruit-feather-m0-basic-proto/using-with-arduino-ide), or see the following steps in short
